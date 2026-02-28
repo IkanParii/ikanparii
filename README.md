@@ -1,12 +1,3 @@
-
-
-# 💫 About Me:
-## Hii There Im Rii<br><br>Cyber Security Students with Interest in Blue Team , CTF and Data Analytic<br><br>
-
-
-### What I Do<br>- Web Security Testing<br>- Network and Log Analysis<br>- Automation with Python and Bash<br>- CTF and etc<br>
-
-
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f.rasyiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fachri-rasyiq-pramana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Fachri-Rasyiq-Pramana) 
 
