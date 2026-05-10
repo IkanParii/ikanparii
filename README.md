@@ -9,7 +9,9 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JBMono&pause=1000&random=true&width=435&lines=Im+Fachri+Rasyiq+Pramana;Im+a+Blue+Team+Enthusiast;Im+a+Somebody+Pleasure)](https://git.io/typing-svg)
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
